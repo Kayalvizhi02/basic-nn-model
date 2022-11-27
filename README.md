@@ -48,6 +48,8 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM:
+NAME : KAYALVIZHI M
+REG.NO : 212220230024
 ```python
 from google.colab import auth
 import gspread

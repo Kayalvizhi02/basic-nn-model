@@ -13,27 +13,6 @@ Neural networks are a set of algorithms, modeled loosely after the human brain, 
 
 The Neural network model contains input layer,two hidden layers and output layer.Input layer contains a single neuron.Output layer also contains single neuron.First hidden layer contains four neurons and second hidden layer contains six neurons.A neuron in input layer is connected with every neurons in a first hidden layer.Similarly,each neurons in first hidden layer is connected with all neurons in second hidden layer.All neurons in second hidden layer is connected with output layered neuron.Relu activation function is used here .It is linear neural network model.
 
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-
 ## Neural Network Model:
 ![image](https://user-images.githubusercontent.com/75413726/187075533-8dc7904c-1988-44a3-887f-c985661bd713.png)
 
@@ -119,24 +98,6 @@ ai_brain.predict(input1)
 ## Dataset Information:
 
 ![image](https://user-images.githubusercontent.com/75413726/187073217-1465db96-3d6d-4c1b-80e4-23ac7e3010be.png)
-
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-
 
 ## OUTPUT:
 

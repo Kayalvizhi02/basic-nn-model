@@ -27,6 +27,12 @@ The Neural network model contains input layer,two hidden layers and output layer
 </br>
 <br>
 </br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
 
 ## Neural Network Model:
 ![image](https://user-images.githubusercontent.com/75413726/187075533-8dc7904c-1988-44a3-887f-c985661bd713.png)

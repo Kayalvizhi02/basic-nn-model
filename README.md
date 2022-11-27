@@ -132,6 +132,11 @@ ai_brain.predict(input1)
 </br>
 <br>
 </br>
+<br>
+</br>
+<br>
+</br>
+
 
 ## OUTPUT:
 

@@ -120,6 +120,19 @@ ai_brain.predict(input1)
 
 ![image](https://user-images.githubusercontent.com/75413726/187073217-1465db96-3d6d-4c1b-80e4-23ac7e3010be.png)
 
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+
 ## OUTPUT:
 
 ### Training Loss Vs Iteration Plot:
